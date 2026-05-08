@@ -52,7 +52,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 
 
 
-<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://www.linkedin.com/in/saif-ek" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>🔗 LinkedIn</a></div>
+<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://www.linkedin.com/in/saif-ek" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>LinkedIn</a></div>
 
 
 
