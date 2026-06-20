@@ -44,8 +44,8 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
   </tr>
   <tr>
     <td>
-      🔹 <a href="https://github.com/your-username/k8s-microservices"><b>Kubernetes Microservices with Ingress</b></a><br>
-      Deployed a microservices app on Kubernetes with <b>Ingress Controller</b> and <b>Helm charts</b>.
+      🔹 <a href="https://github.com/saifuddin-md/3-Tier_App_On_Kubernetes.git"><b>3-Tier App On Kubernetes</b></a><br>
+      Deployed a 3-tire app on Kubernetes with <b>Ingress Controller</b>.
     </td>
   </tr>
 </table>
