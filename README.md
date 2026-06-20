@@ -45,7 +45,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
   <tr>
     <td>
       🔹 <a href="https://github.com/saifuddin-md/3-Tier_App_On_Kubernetes.git"><b>3-Tier App On Kubernetes</b></a><br>
-      Deployed a 3-tire app on Kubernetes with <b>Ingress Controller</b>.
+      Deployed a 3-tire app on Kubernetes with <b>Ingress Controller</b>,<b>HPA</b>,<b>ConfigMaps</b>.
     </td>
   </tr>
 </table>
