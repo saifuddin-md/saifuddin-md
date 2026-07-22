@@ -1,6 +1,8 @@
 ## About  
 Hi, I’m Saif, a Cloud and DevOps Engineer specializing in AWS, Terraform, Docker, Kubernetes, and CI/CD automation. I help businesses deploy applications, automate infrastructure, improve cloud security, and build scalable AWS environments.
 
+---
+
 
 | <b>Technologies</b>          | <b>Skills</b>                |
 | ---------------------------- | ------------------------ |
