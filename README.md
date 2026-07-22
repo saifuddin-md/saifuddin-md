@@ -1,7 +1,5 @@
 ## About  
-Hey there 👋 <b>I'm Saifuddin,</b> AWS Certified with 7+ years of IT Experience, I enjoy solving real-world problems using technologies like AWS, Azure, Terraform, Kubernetes, Docker, and CI/CD pipelines. My expertise includes cloud infrastructure automation, Containerization, and implementing end-to-end DevOps workflows that improve reliability and deployment speed.
-
-I’m passionate about learning new DevOps tools, optimizing cloud architectures, and sharing my journey through projects and collaborations.
+Hi, I’m Saif, a Cloud and DevOps Engineer specializing in AWS, Terraform, Docker, Kubernetes, and CI/CD automation. I help businesses deploy applications, automate infrastructure, improve cloud security, and build scalable AWS environments.
 
 
 | <b>Technologies</b>          | <b>Skills</b>                |
@@ -14,8 +12,7 @@ I’m passionate about learning new DevOps tools, optimizing cloud architectures
 | **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus,grafana" />  |
 
 
-
- ## Projects:
+## Projects:
 #### Here are some of my hands-on projects ⬇ <div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://saifuddin-md.github.io/" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;">🌐 Visit My Portfolio</a></div>
 <table>
   <tr>
