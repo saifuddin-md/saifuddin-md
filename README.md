@@ -1,5 +1,5 @@
 ## About  
-Hi, I’m Saifuddin, a Cloud and DevOps Engineer specializing in AWS, Terraform, Docker, Kubernetes, and CI/CD automation. I help businesses deploy applications, automate infrastructure, improve cloud security, and build scalable AWS environments.
+Hi, I’m Saifuddin, a DevOps Engineer specializing in AWS, Terraform, Docker, Kubernetes, and CI/CD automation. I help businesses deploy applications, automate infrastructure, improve cloud security, and build scalable AWS environments.
 
 ---
 
