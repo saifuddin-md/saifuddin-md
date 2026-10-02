@@ -26,25 +26,25 @@ Hi,, I’m Saifuddin, a DevOps Engineer specializing in **AWS, Azure, Terraform,
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
-      <b>Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB.</b>
+      Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB.
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>End-to-End DevSecOps CI-CD Pipeline</b></a><br>
-      <b>Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.</b>
+      Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/terraform-jenkins-setup"><b>Jenkins Setup on AWS using Terraform</b></a><br>
-      <b>Provisioned all Networking and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate.</b>
+      Provisioned all Networking and App Components, Integrating with a Custom Domain and <b>SSL</b> Certificate.
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/saifuddin-md/3-Tier_App_On_Kubernetes.git"><b>3-Tier App On Kubernetes</b></a><br>
-      <b>Deployed a 3-tire app on Kubernetes with Ingress Controller, HPA, ConfigMaps</b>.
+      Deployed a 3-tire app on Kubernetes with Ingress Controller, HPA, ConfigMaps.
     </td>
   </tr>
 </table>
