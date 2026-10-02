@@ -20,7 +20,7 @@ Hi,, I’m Saifuddin, a DevOps Engineer specializing in **AWS, Azure, Terraform,
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/aws-2tier-architecture-terraform"><b>AWS 2-Tier Architecture with Terraform</b></a><br>
-      <b>Provisioned a scalable 2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB) using reuseable Terraform module.</b>
+      Provisioned a scalable 2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB) using reuseable Terraform module.
     </td>
   </tr>
   <tr>
