@@ -1,5 +1,6 @@
 ## About  
-Hi,, I’m Saifuddin, a DevOps Engineer specializing in **AWS, Azure, Terraform, Docker, Kubernetes, Argo CD, Ansible, GitHub Action and Jenkins.** I help businesses deploy applications, automate infrastructure, improve cloud security, and build scalable environments.
+Hi, I’m Saifuddin, an experienced DevOps professional with Over **7 years of experience in IT and software development**, including **4+ years of relevant experience in AWS DevOps**. Skilled in **infrastructure automation, end-to-end CI/CD pipelines, containerization, and cloud technologies**, with expertise in building **scalable, secure, and cost-optimized cloud environments**.
+
 
 ---
 
