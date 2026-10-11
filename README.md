@@ -1,3 +1,7 @@
+<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://www.linkedin.com/in/saif-ek---" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>LinkedIn</a></div>
+
+
+
 ## About  
 Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **7 years of experience in IT and software development**, including **4+ years of relevant experience in AWS DevOps**. Skilled in **infrastructure automation, end-to-end CI/CD pipelines, containerization, and cloud technologies**, with expertise in building **scalable, secure, and cost-optimized cloud environments**.
 
@@ -55,12 +59,6 @@ Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **7 years 
     </td>
   </tr>
 </table>
-
-
-
-<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://www.linkedin.com/in/saif-ek---" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>LinkedIn</a></div>
-
-
 
 
 
