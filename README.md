@@ -27,19 +27,19 @@ Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **7 years 
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/aws-2tier-architecture-terraform"><b>AWS 2-Tier Architecture with Terraform</b></a><br>
-      Provisioned a scalable 2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB) using reuseable Terraform module.
+      Provisioned a scalable <b>2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB)</b>b> using reuseable <b>Terraform module</b>b>.
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
-      Provisioned a Secure, Scalable, & Highly available Environment to run Containerized App on ECS behind an ALB.
+      Provisioned a <b>Secure, Scalable, & Highly available Environment</b> to run Containerized App on <b>ECS</b>b> behind an <b>ALB</b>b>.
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>End-to-End DevSecOps CI-CD Pipeline</b></a><br>
-      Implemented a CI/CD pipeline with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
+      Implemented a <b>CI/CD pipeline</b>b> with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **7 years 
   <tr>
     <td>
       🔹 <a href="https://github.com/saifuddin-md/3-Tier_App_On_Kubernetes.git"><b>3-Tier App On Kubernetes</b></a><br>
-      Deployed a 3-tire app on Kubernetes with Ingress Controller, HPA, ConfigMaps.
+      Deployed a 3-tire app on <b>Kubernetes</b>b> with <b>Ingress Controller, HPA, ConfigMaps</b>b>.
     </td>
   </tr>
 </table>
