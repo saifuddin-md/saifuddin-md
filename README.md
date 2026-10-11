@@ -27,13 +27,13 @@ Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **7 years 
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/aws-2tier-architecture-terraform"><b>AWS 2-Tier Architecture with Terraform</b></a><br>
-      Provisioned a scalable <b>2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB)</b>b> using reuseable <b>Terraform module</b>b>.
+      Provisioned a scalable <b>2-tier architecture (VPC, EC2, S3, IAM, RDS, ALB)</b> using reuseable <b>Terraform module</b>.
     </td>
   </tr>
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/ECS_Cluster_on_EC2_with_Terraform"><b>ECS Cluster On EC2 With Terraform</b></a><br>
-      Provisioned a <b>Secure, Scalable, & Highly available Environment</b> to run Containerized App on <b>ECS</b>b> behind an <b>ALB</b>b>.
+      Provisioned a <b>Secure, Scalable, & Highly available Environment</b> to run Containerized App on <b>ECS</b> behind an <b>ALB</b>.
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **7 years 
   <tr>
     <td>
       🔹 <a href="https://github.com/saifuddin-md/3-Tier_App_On_Kubernetes.git"><b>3-Tier App On Kubernetes</b></a><br>
-      Deployed a 3-tire app on <b>Kubernetes</b>b> with <b>Ingress Controller, HPA, ConfigMaps</b>b>.
+      Deployed a 3-tire app on <b>Kubernetes</b> with <b>Ingress Controller, HPA, ConfigMaps</b>.
     </td>
   </tr>
 </table>
