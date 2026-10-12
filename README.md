@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:left;"><a href="https://www.linkedin.com/in/saif-ek---" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>LinkedIn</a></div>
+<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:right;"><a href="https://www.linkedin.com/in/saif-ek---" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>LinkedIn</a></div>
 
 <p align="left"> <a href="https://www.linkedin.com/in/saif-ek---"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
