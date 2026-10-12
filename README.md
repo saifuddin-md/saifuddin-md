@@ -1,9 +1,7 @@
-<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:right;"><a href="https://www.linkedin.com/in/saif-ek---" style="color: white; font-size: 18px; font-weight: bold; text-decoration: none;"><i class="fab fa-linkedin"></i>LinkedIn</a></div>
-
-<p align="right"> <a href="https://www.linkedin.com/in/saif-ek---"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/saif-ek---">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/saif-ek---">🔗 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/86868780-79e8-4735-bb7f-e30d16a57e3b" />
+LinkedIn</a>
 </p>
 
 
