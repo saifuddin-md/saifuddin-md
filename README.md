@@ -2,6 +2,10 @@
 
 <p align="right"> <a href="https://www.linkedin.com/in/saif-ek---"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
+<p align="right">
+  <a href="https://www.linkedin.com/in/saif-ek---">🔗 LinkedIn</a>
+</p>
+
 
 
 ## About  
