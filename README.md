@@ -2,7 +2,7 @@
 
 
 ## About  
-Hi, I’m Saifuddin, an experienced AWS DevOps professional with Over **8 years of experience in IT and software development**, including **4+ years of relevant experience in AWS DevOps**. Skilled in **infrastructure automation, end-to-end CI/CD pipelines, containerization, and cloud technologies**, with expertise in building **scalable, secure, and cost-optimized cloud environments**.
+Hi, I’m Saifuddin, an experienced DevOps professional with Over **8 years of experience in IT and software development**, including **4+ years of relevant experience in AWS DevOps**. Skilled in **infrastructure automation, end-to-end CI/CD pipelines, containerization, and cloud technologies**, with expertise in building **scalable, secure, and cost-optimized cloud environments**.
 
 - Delivered 𝟱𝟬% faster deployments. 
 - 𝟮𝟬–𝟯𝟬% Cost Optimization, and High-availability systems (𝟵𝟵.𝟵%+ 𝘂𝗽𝘁𝗶𝗺𝗲) through automation and IaC. 
