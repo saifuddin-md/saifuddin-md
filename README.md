@@ -8,7 +8,7 @@ Hi, I’m Saifuddin, an experienced DevOps professional with Over **8 years of e
 - 𝟮𝟬–𝟯𝟬% Cost Optimization, and High-availability systems (𝟵𝟵.𝟵%+ 𝘂𝗽𝘁𝗶𝗺𝗲) through automation and IaC. 
 - Built end-to-end CI/CD pipelines, improved system reliability, and reduced manual operations at scale.
 
-*I build systems that scale, automate everything possible, and focus on measurable impact.*
+I build systems that scale, automate everything possible, and focus on measurable impact.
 
 
 ---
