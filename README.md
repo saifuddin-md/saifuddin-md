@@ -1,20 +1,3 @@
-<div align="right">
-  <p>
-    <a href="https://www.linkedin.com/in/saif-ek---">
-      <img width="18" height="18" alt="LinkedIn"
-        src="https://github.com/user-attachments/assets/86868780-79e8-4735-bb7f-e30d16a57e3b" />
-      &nbsp;LinkedIn
-    </a>
-  </p>
-
-  <div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align: center; display: inline-block;">
-    <a href="https://saifuddin-md.github.io/"
-       style="color: white; font-size: 20px; font-weight: bold; text-decoration: none;">
-      🌐 Visit My Portfolio
-    </a>
-  </div>
-</div>
-
 <table align="right">
   <tr>
     <td>
