@@ -42,7 +42,7 @@ I build systems that scale, automate everything possible, and focus on measurabl
   <tr>
     <td>
       🔹 <a href="https://github.com/xrootms/DevSecOps-CI-CD-Pipeline"><b>End-to-End DevSecOps CI-CD Pipeline</b></a><br>
-      Implemented a <b>CI/CD pipeline</b>b> with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
+      Implemented a <b>CI/CD pipeline</b> with <b>Jenkins</b>, <b>Docker</b>, and <b>Kubernetes</b> for automated deployments.
     </td>
   </tr>
   <tr>
