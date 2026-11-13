@@ -1,7 +1,3 @@
-<p align="right"> <a href="https://www.linkedin.com/in/saif-ek---"> <img width="18" height="18" alt="LinkedIn" src="https://github.com/user-attachments/assets/86868780-79e8-4735-bb7f-e30d16a57e3b" />&nbsp;LinkedIn </a> </p>
-
-<div style="background: linear-gradient(90deg, #0A66C2, #00C9A7); padding: 15px; border-radius: 10px; text-align:center;"><a href="https://saifuddin-md.github.io/" style="color: white; font-size: 20px; font-weight: bold; text-decoration: none;">🌐 Visit My Portfolio</a></div>
-
 <div align="right">
   <p>
     <a href="https://www.linkedin.com/in/saif-ek---">
@@ -18,7 +14,6 @@
     </a>
   </div>
 </div>
-
 
 ## About  
 Hi, I’m Saifuddin, an experienced DevOps professional with Over **8 years of Experience in IT and software development**, including **4+ years of relevant experience in AWS DevOps**. Skilled in **infrastructure automation, end-to-end CI/CD pipelines, containerization, and AWS cloud technologies**, with expertise in building **scalable, secure, and cost-optimized cloud environments**.
