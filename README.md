@@ -37,6 +37,7 @@ I build systems that scale, automate everything possible, and focus on measurabl
 | **Scripting**                | <img src="https://skillicons.dev/icons?i=bash" /> |
 | **Monitoring**               | <img src="https://skillicons.dev/icons?i=prometheus,grafana" />  |
 
+---
 
 ## Projects:
 #### Here are some of my hands-on projects ⬇ 
