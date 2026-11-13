@@ -41,7 +41,6 @@ I build systems that scale, automate everything possible, and focus on measurabl
 ## Projects:
 #### Here are some of my hands-on projects ⬇ 
 
-
 <table>
   <tr>
     <td>
