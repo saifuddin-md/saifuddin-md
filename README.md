@@ -9,8 +9,8 @@
     </td>
     <td>
       <a href="https://saifuddin-md.github.io/">
-        <img width="18" height="18" alt="Visit My Portfolio"
-          src="image/Minimalist Portfolio Folder Icon.png" />
+        <img width="30" height="18" alt="Visit My Portfolio"
+          src="./image/Minimalist Portfolio Folder Icon.png" />
         🌐 Visit My Portfolio
       </a>
     </td>
