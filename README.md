@@ -9,7 +9,7 @@
     </td>
     <td>
       <a href="https://saifuddin-md.github.io/">
-        <img width="18" height="18" alt="Visit My Portfolio"
+        <img width="17" height="17" alt="Visit My Portfolio"
           src="./image/globe (1).svg" />
         Visit My Portfolio
       </a>
