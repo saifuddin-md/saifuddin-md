@@ -11,7 +11,7 @@
       <a href="https://saifuddin-md.github.io/">
         <img width="20" height="20" alt="Visit My Portfolio"
           src="./image/globe (1).svg" />
-        🌐 Visit My Portfolio
+        Visit My Portfolio
       </a>
     </td>
   </tr>
