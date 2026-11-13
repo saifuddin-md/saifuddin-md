@@ -27,6 +27,7 @@ I build systems that scale, automate everything possible, and focus on measurabl
 
 ---
 
+## Skills
 
 | <b>Technologies</b>          | <b>Skills</b>                |
 | ---------------------------- | ------------------------ |
