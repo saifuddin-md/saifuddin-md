@@ -1,19 +1,4 @@
-<table align="right">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/saif-ek---">
-        <img width="18" height="18" alt="LinkedIn"
-          src="https://github.com/user-attachments/assets/86868780-79e8-4735-bb7f-e30d16a57e3b" />
-        LinkedIn
-      </a>
-    </td>
-    <td>
-      <a href="https://saifuddin-md.github.io/">
-        🌐 Visit My Portfolio
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 <div align="right" style="white-space: nowrap;">
