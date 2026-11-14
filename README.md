@@ -22,8 +22,7 @@
 
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/saif-ek---">LinkedIn</a> |
-  <a href="https://saifuddin-md.github.io/">Visit My Portfolio</a>
+  <a href="https://www.linkedin.com/in/saif-ek---">LinkedIn</a> | <a href="https://saifuddin-md.github.io/">Visit My Portfolio</a>
 </div>
 
 
