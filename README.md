@@ -17,6 +17,10 @@
   </tr>
 </table>
 
+
+[LinkedIn](https://www.linkedin.com/in/saif-ek---) | [Visit My Portfolio](https://saifuddin-md.github.io/)
+
+
 ## About  
 Hi, I’m Saifuddin, an experienced DevOps professional with Over **8 years of Experience in IT and software development**, including **4+ years of relevant experience in AWS DevOps**. Skilled in **infrastructure automation, end-to-end CI/CD pipelines, containerization, and AWS cloud technologies**, with expertise in building **scalable, secure, and cost-optimized cloud environments**.
 
