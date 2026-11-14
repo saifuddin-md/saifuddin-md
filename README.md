@@ -21,10 +21,12 @@
 [LinkedIn](https://www.linkedin.com/in/saif-ek---) | [Visit My Portfolio](https://saifuddin-md.github.io/)
 
 
+<div align="right">
+  <a href="https://www.linkedin.com/in/saif-ek---">LinkedIn</a> |
+  <a href="https://saifuddin-md.github.io/">Visit My Portfolio</a>
+</div>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/saif-ek---) &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=googlechrome)](https://saifuddin-md.github.io/)
 
 
 ## About  
